@@ -1,19 +1,10 @@
 ## Hi there 👋
 
-<!--
-**Hossain-Shah/Hossain-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<h3>
 - 👯 I’m looking to collaborate on software development.
 - 🤔 I’m looking for help with good free open source AI models.
 - 💬 Ask me about artificial intelligence.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h3>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
