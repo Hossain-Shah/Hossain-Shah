@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <h3>
-- 👯 I’m looking to collaborate on software development.
-- 🤔 I’m looking for help with good free open source AI models.
-- 💬 Ask me about artificial intelligence.
+<ul> 👯 I’m looking to collaborate on software development.</ul>
+<ul> 🤔 I’m looking for help with good free open source AI models.</ul>
+<ul> 💬 Ask me about artificial intelligence.</ul>
 </h3>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
