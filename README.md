@@ -31,6 +31,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
-
-![GitHub Metrics](https://streak-stats.demolab.com/?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
+![GitHub Metrics](https://streak-stats.demolab.com/?user=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
 
