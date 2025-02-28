@@ -26,7 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="45" height="45"/>\
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Shah
-https://github-readme-stats.vercel.app/api?username=Hossain-Shah
-https://github-readme-activity-graph.cyclic.app/graph?username=Hossain-Shah
+[!Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Shah)]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossain-Shah)]
 </p>
