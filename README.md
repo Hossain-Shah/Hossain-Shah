@@ -29,10 +29,8 @@
 </p>
 # My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossain-Shah)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Shah)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
 
-# My GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hossain-Shah)
 
