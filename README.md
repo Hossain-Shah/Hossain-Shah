@@ -30,10 +30,6 @@
 <h2> 🚀 &nbsp; My GitHub Stats</h2>
 
 ![Badges](https://github-profile-trophy.vercel.app/?username=Hossain-Shah)
-
-
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 ![GitHub Metrics](https://streak-stats.demolab.com/?user=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
