@@ -27,5 +27,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
 </p>
-[!Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)]
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)]
