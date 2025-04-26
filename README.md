@@ -32,6 +32,6 @@
 ![Badges](https://github-profile-trophy.vercel.app/?username=Hossain-Shah)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Shah&show_icons=true&hide=prs&count_private=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hossain-Shah&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hossain-Shah&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 ![GitHub Contributions](https://api.vaunt.dev/v1/github/entities/Hossain-Shah/contributions?format=svg&private=true)
 
